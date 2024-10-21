@@ -8,8 +8,8 @@ TRANSPORTATION
 # SKILL-TAKEAWAY:
 Python scripting,Selenium,Data Collection,Data Management using SQL,Streamlit
 # TECHNOLOGY USED:
-Python 3.9.I
-MySQL 8.0
+Python 3.13
+DB SQlite Browser
 Streamlit
 Selenium
 
